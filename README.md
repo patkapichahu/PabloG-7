@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Pablo+Gomes&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=55)
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Eduardo+Franke&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Desenvolvedor%20Frontend&descSize=22&descAlignY=55)
 
 <br/>
 
