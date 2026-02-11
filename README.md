@@ -12,9 +12,6 @@
 
 <!-- Social Buttons -->
 <div align="center" style="margin-top: 18px;">
-  <a href="https://portfolio-dev-pablo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/eduardo-franke-6a94843a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
